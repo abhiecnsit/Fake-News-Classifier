@@ -7,4 +7,4 @@ In this notebook I have used Kaggle's API to download the datasets. To use the A
 
 I highly recommend to please visit the [Kaggle API page](https://github.com/Kaggle/kaggle-api) for detailed explanation and more functionalities. 
 
-The dataset is available on Kaggle's [Fake News Classification Competition](https://www.kaggle.com/c/fake-news/data#) and you can find the details regarding the Kaggle API [here](https://github.com/Kaggle/kaggle-api). 
+The dataset is available on Kaggle's [Fake News Competition](https://www.kaggle.com/c/fake-news/data#) and you can find the details regarding the Kaggle API [here](https://github.com/Kaggle/kaggle-api). 
